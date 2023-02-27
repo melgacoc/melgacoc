@@ -8,7 +8,7 @@ Contato:
 
 ### Sobre mim
 
-Sou natural de Matozinhos-Mg e tenho 29 anos. Sou Técnico em Química e cursava Engenharia Bioquímica que foi interrompida durante a pandêmia. Como não consegui retornar pro curso, a programação veio como uma alternativa e estou em transição de carreira. Iniciei o bootcamp de desenvolvimento web pela Trybe em Abril de 2022.
+Natural de Matozinhos-Mg e tenho 29 anos. Sou Técnico em Química e cursava Engenharia Bioquímica que foi interrompida durante a pandêmia. Como não consegui retornar pro curso, a programação veio como uma alternativa e estou em transição de carreira. Iniciei o bootcamp de desenvolvimento web pela Trybe em Abril de 2022.
 
 ### Competências
 
