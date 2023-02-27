@@ -11,8 +11,6 @@ Sou natural de Matozinhos-Mg e tenho 29 anos. Sou Técnico em Química e cursava
 
 ### Competências
 
-O que aprendi e estou aprendendo durante a minha formação na Trybe
-
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,8 +19,10 @@ O que aprendi e estou aprendendo durante a minha formação na Trybe
 ![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Projetos desenvolvidos durante o curso na Trybe
 
 - [Projetos desenvolvidos no módulo de Fundamentos](https://github.com/stars/melgacoc/lists/projetos-fundamentos-trybe)<br>
 - [Projetos desenvolvidos no módulo de Frontend](https://github.com/stars/melgacoc/lists/projetos-frontend-trybe)<br>
