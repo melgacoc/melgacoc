@@ -1,6 +1,15 @@
-### Oi. Eu sou o Cláudio. 👋
+## Oi. Eu sou o Cláudio. 👋
 
 Desenvolvedor Web Full Stack ***em busca da primeira oportunidade como Júnior***
+Contato:
+- Email: claudio19a@hotmail.com
+- Telefone: (31) 9 7344-1241
+
+### Sobre mim
+
+Sou natural de Matozinhos-Mg e tenho 29 anos. Sou Técnico em Química e cursava Engenharia Bioquímica que foi interrompida durante a pandêmia. Como não consegui retornar pro curso, a programação veio como uma alternativa e estou em transição de carreira. Iniciei o bootcamp de desenvolvimento web pela Trybe em Abril de 2022.
+
+### Competências
 
 O que aprendi e estou aprendendo durante a minha formação na Trybe
 
