@@ -24,7 +24,7 @@ O que aprendi e estou aprendendo durante a minha formação na Trybe
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-- Projetos desenvolvidos no módulo de Fundamentos [Projetos de fundamentos](https://github.com/stars/melgacoc/lists/projetos-fundamentos-trybe)<br>
-- Projetos desenvolvidos no módulo de Frontend [Projetos de frontend](https://github.com/stars/melgacoc/lists/projetos-frontend-trybe)<br>
-- Projetos desenvolvidos no módulo de Backend [Projetos de backend](https://github.com/stars/melgacoc/lists/projetos-backend-trybe)<br>
+- [Projetos desenvolvidos no módulo de Fundamentos](https://github.com/stars/melgacoc/lists/projetos-fundamentos-trybe)<br>
+- [Projetos desenvolvidos no módulo de Frontend](https://github.com/stars/melgacoc/lists/projetos-frontend-trybe)<br>
+- [Projetos desenvolvidos no módulo de Backend](https://github.com/stars/melgacoc/lists/projetos-backend-trybe)<br>
 
