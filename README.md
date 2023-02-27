@@ -3,7 +3,8 @@
 Desenvolvedor Web Full Stack ***em busca da primeira oportunidade como Júnior***
 Contato:
 - Email: claudio19a@hotmail.com
-- Telefone: (31) 9 7344-1241 <br>
+- Telefone e WhatsApp: (31) 9 7344-1241 <br>
+- [Linkedin](https://www.linkedin.com/in/claudio-melgaco-2a08b4128/)
 
 ### Sobre mim
 
