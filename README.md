@@ -1,6 +1,6 @@
 ## Oi. Eu sou o Cláudio. 👋
 
-Desenvolvedor Web Full Stack ***em busca da primeira oportunidade como Júnior***
+Desenvolvedor Web Full Stack ***em busca da primeira oportunidade como Jr***
 Contato:
 - Email: claudio19a@hotmail.com
 - Telefone e WhatsApp: (31) 9 7344-1241 <br>
