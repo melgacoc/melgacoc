@@ -1,4 +1,4 @@
-## Cláudio Melgaço. 👋
+## Cláudio Melgaço 👋
 
 Desenvolvedor Web Full Stack ***em busca da primeira oportunidade como Jr***
 Contato:
