@@ -1,14 +1,10 @@
 ## Cláudio Melgaço 👋
 
-Desenvolvedor Web Full Stack em [Apê11](https://www.linkedin.com/company/ape11)<br>
+Desenvolvedor Web Full Stack
 Contato:
 - Email: claudio19a@hotmail.com
 - Telefone e WhatsApp: (31) 9 7344-1241 <br>
 - [Linkedin](https://www.linkedin.com/in/claudio-melgaco-2a08b4128/)
-
-### Sobre mim
-
-Natural de Matozinhos-Mg e tenho 29 anos. Sou Técnico em Química e cursava Engenharia Bioquímica que foi interrompida durante a pandêmia. Como não consegui retornar pro curso, a programação veio como uma alternativa e estou em transição de carreira. Iniciei o bootcamp de desenvolvimento web pela Trybe em Abril de 2022.
 
 ### Competências
 
