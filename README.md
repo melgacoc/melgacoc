@@ -27,7 +27,7 @@ Contato:
 
 ## Projetos desenvolvidos
 
-- [HTML e CSS](https://github.com/stars/melgacoc/lists/HTML_CSS)<br>
+- [HTML e CSS](https://github.com/stars/melgacoc/lists/html-css)<br>
 - [Backend](https://github.com/stars/melgacoc/lists/backend)<br>
 - [Frontend](https://github.com/stars/melgacoc/lists/frontend)<br>
 
