@@ -25,9 +25,8 @@ Contato:
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## Projetos desenvolvidos durante o curso na Trybe
+## Projetos desenvolvidos
 
-- [Projetos desenvolvidos no módulo de Fundamentos](https://github.com/stars/melgacoc/lists/projetos-fundamentos-trybe)<br>
-- [Projetos desenvolvidos no módulo de Frontend](https://github.com/stars/melgacoc/lists/projetos-frontend-trybe)<br>
-- [Projetos desenvolvidos no módulo de Backend](https://github.com/stars/melgacoc/lists/projetos-backend-trybe)<br>
+- [Backend](https://github.com/stars/melgacoc/lists/projetos-backend-trybe)<br>
+- [Frontend](https://github.com/stars/melgacoc/lists/projetos-frontend-trybe)<br>
 
