@@ -27,6 +27,7 @@ Contato:
 
 ## Projetos desenvolvidos
 
-- [Backend](https://github.com/stars/melgacoc/lists/projetos-backend-trybe)<br>
-- [Frontend](https://github.com/stars/melgacoc/lists/projetos-frontend-trybe)<br>
+- [HTML e CSS](https://github.com/stars/melgacoc/lists/HTML_CSS)<br>
+- [Backend](https://github.com/stars/melgacoc/lists/backend)<br>
+- [Frontend](https://github.com/stars/melgacoc/lists/frontend)<br>
 
