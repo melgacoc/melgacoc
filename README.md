@@ -27,8 +27,6 @@ Contato:
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projetos desenvolvidos
-
-- [HTML e CSS](https://github.com/stars/melgacoc/lists/html-css)<br>
 - [Backend](https://github.com/stars/melgacoc/lists/backend)<br>
 - [Frontend](https://github.com/stars/melgacoc/lists/frontend)<br>
 
